@@ -2,7 +2,7 @@
 
 Be among the first to explore QoolQit, Pasqal's new open-source, hardware-agnostic Python framework for quantum programming. QoolQit lets you focus on designing quantum experiments while abstracting away the complexities of the underlying hardware.
 
-Over the course of **4 weeks**, you'll follow a guided learning journey designed to take you from **zero experience with QoolQit** to running your **first quantum experiment with it**.
+Over the course of **3 weeks**, you'll follow a guided learning journey designed to take you from **zero experience with QoolQit** to running your **first quantum experiment with it**.
 
 **What to expect**
 
