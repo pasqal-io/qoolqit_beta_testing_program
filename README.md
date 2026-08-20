@@ -18,3 +18,25 @@ Over the course of **3 weeks**, you'll follow a guided learning journey desi
 
 - 🎤 Recognition during the official QoolQit launch webinar
 - ☁️ Complimentary Pasqal Cloud emulation credits upon completion
+
+**How to install**
+
+First, create and activate a virtual environment, then install the package. Examples below use `pip` and [`uv`](https://docs.astral.sh/uv/), but feel free to use your favorite package manager instead.
+
+With `pip`:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install .
+```
+
+With `uv`:
+
+```bash
+uv venv
+source .venv/bin/activate
+uv pip install .
+```
+
+This installs QoolQit 1.4 and Jupyter so you can run the exercise notebooks with `jupyter lab` or `jupyter notebook`.
