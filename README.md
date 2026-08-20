@@ -1,4 +1,4 @@
-🚀 **Join the QoolQit Beta Testing Program!**
+## 🚀 **Join the QoolQit Beta Testing Program!**
 
 Be among the first to explore QoolQit, Pasqal's new open-source, hardware-agnostic Python framework for quantum programming. QoolQit lets you focus on designing quantum experiments while abstracting away the complexities of the underlying hardware.
 
@@ -19,7 +19,7 @@ Over the course of **3 weeks**, you'll follow a guided learning journey desi
 - 🎤 Recognition during the official QoolQit launch webinar
 - ☁️ Complimentary Pasqal Cloud emulation credits upon completion
 
-**How to install**
+### ⚙️ **How to install**
 
 First, create and activate a virtual environment, then install the package. Examples below use `pip` and [`uv`](https://docs.astral.sh/uv/), but feel free to use your favorite package manager instead.
 
