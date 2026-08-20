@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qoolqit-beta-testing-program"
+version = "0.1.0"
+description = "Qoolqit Beta Testing Program"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Francesco Ferrulli", email = "francesco.ferrulli@pasqal.com" },
+    { name = "Stefano Grava", email = "s.grava-ext@pasqal.com" },
+    { name = "Vittorio Vitale", email = "vittorio.vitale@pasqal.com" },
+]
+dependencies = [
+    "qoolqit>=1.4.0",
+    "jupyter",
+]
+
+[tool.setuptools]
+packages = []
+
+[project.optional-dependencies]
+dev = ["ruff"]
